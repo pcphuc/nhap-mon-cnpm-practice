@@ -2,7 +2,7 @@
 
 Xin chào! Đây là lần đầu tiên tôi sử dụng Git và GitHub.
 
-##Thông tin sinh viên
+## Thông tin sinh viên
 
 - **Họ và tên:** Châu Nguyên Phúc
 - **Mã số sinh viên:** 25S1020079
